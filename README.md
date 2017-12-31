@@ -1,0 +1,1 @@
+Run stand alone java code ( static main ) from Android device.
