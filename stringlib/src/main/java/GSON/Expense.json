@@ -1,0 +1,22 @@
+{
+		"ExpenseRepors" : [
+			 { 	"id" : "1007", 
+				"amount" : 234.77f, 
+				"dateOfExpense" : 11/15/2017", 
+				"dateOfExpense" : "11/17/2017",
+				"vendor" : "DELPHI"
+			 ],
+			 { 	"id" : "1002", 
+				"amount" : 6784.24f, 
+				"dateOfExpense" : 11/13/2017", 
+				"dateOfExpense" : "11/16/2017",
+				"vendor" : "WALMART"
+			 ],
+			 { 	"id" : "1005", 
+				"amount" : 144.46f, 
+				"dateOfExpense" : 11/17/2017", 
+				"dateOfExpense" : "11/19/2017",
+				"vendor" : "VUNGLE"
+			 ]
+		]
+}
